@@ -1,0 +1,13 @@
+.person h1{
+    color: aqua;
+}
+.person{
+    border: 1px solid greenyellow;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 1000px;
+}
+.icon-color{
+    color: rgb(189, 179, 88);
+}
